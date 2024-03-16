@@ -8,7 +8,7 @@ website
 > Changklan, Chiang Mai 50100, Thailand<br />
 
 # Education
-* English Communication – Payap International College
+* Bachelor in English Communication – Payap International College
 * High school – TNA Fatih Bilingual School
 
 # Experience
