@@ -1,6 +1,5 @@
 # sausanpranata.github.io
 website
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 
 # _Sausan Pranata_
 > Payap University, English Department<br />
